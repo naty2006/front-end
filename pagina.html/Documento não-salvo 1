@@ -2,10 +2,10 @@
    <head>
     <title>Página Html</title>
    </head>
-   <body style="background:#4682B4; color:#000000; text-align: center;">
-    <h1>Colégio Pedro II</h1>
+   <body style="background:#4682B4; color:#000000; text-align: center;font-family:Courier New">
+    <h1><img src="img/konbat.png" width="200px" hight="200px">Colégio Pedro II</h1>
     <br>
-    <h2>2º. Técnico em Desenvolvimento de Sistemas</h2>
+    <h2><a href="http://google.com">2º. Técnico em Desenvolvimento de Sistemas</a></h2>
     <br>
     <p>Professor:<b>Erval Netto de Lima</b></p>
     <br>
